@@ -1,6 +1,8 @@
 # WSCoderObject-OC
 WSCoderObject-OC,Object-C对象一键归档解档工具类(NSCoding)
 
+Swift版归档工具类：[https://github.com/wackosix/WSCoderObject-Swift](https://github.com/wackosix/WSCoderObject-Swift)
+
 # 用法(Usage)
 1. 将 WSCoderObject.h & .m 文件导入你的项目
 2. 把你需要归档的类文件，导入头文件`#import "WSCoderObject.h"`,并且你的类继承于 WSCoderObject
